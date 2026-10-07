@@ -54,10 +54,6 @@ A patient requests a bed, and the system checks doctor/reference information and
 ### User Login Verification
 A user attempts to log in, and the system verifies the credentials. If verification repeatedly fails, the user may be blocked.
 
-## Project Document
-
-The complete work is available in the following Word document:
-
 ## Tools Used
 
 - Wondershare EdrawMax
